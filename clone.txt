@@ -1,0 +1,3 @@
+hello this is my first line on the git text file
+
+this is second line on the text file
