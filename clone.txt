@@ -1,0 +1,6 @@
+hello this is my first line on the git text file
+
+this is second line on the text file
+
+
+bu da benim ikinci commit icin uyguladigim satir 10:18pm
