@@ -4,3 +4,6 @@ this is second line on the text file
 
 
 bu da benim ikinci commit icin uyguladigim satir 10:18pm
+
+localime clone yaptim oradan calisiyorum simdi.
+
