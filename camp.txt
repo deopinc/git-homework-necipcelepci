@@ -3,3 +3,6 @@ this is first line in clone.txt file.
 I am happy.. he he
 
 bir kac degisiklik iceren bir satir saat 10:16pm
+
+burda da bir degisiklik yaptim. mutluyum he he
+
